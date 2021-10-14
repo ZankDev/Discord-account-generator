@@ -26,3 +26,11 @@ Before you try to start the bot, you need to fill the `config.json` file.
 - `genCooldown`: Time between two `gen` command *(use millisec)*
 
 You can change the `green`, `yellow`, `red` and `default` colors.
+
+## only for carter or other 
+
+npm install 
+
+![r](https://i.imgur.com/HxbLhgJ.gif)
+
+and node . on cmd
