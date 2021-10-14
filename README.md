@@ -34,3 +34,9 @@ npm install
 ![r](https://i.imgur.com/HxbLhgJ.gif)
 
 and node . on cmd
+
+## 🛠 Views and Followers
+<a href="https://github.com/TusTusDev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=TusTusDev">
+</a>
+<a href="https://github.com/TusTusDev?tab=followers"><img src="https://img.shields.io/github/followers/TusTusDev?label=Followers&style=social" alt="GitHub Badge"></a>
